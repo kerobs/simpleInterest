@@ -1,0 +1,16 @@
+D:\dpr\src\RG.ConsoleApp\bin\Debug\netcoreapp2.1\RG.ConsoleApp.deps.json
+D:\dpr\src\RG.ConsoleApp\bin\Debug\netcoreapp2.1\RG.ConsoleApp.runtimeconfig.json
+D:\dpr\src\RG.ConsoleApp\bin\Debug\netcoreapp2.1\RG.ConsoleApp.runtimeconfig.dev.json
+D:\dpr\src\RG.ConsoleApp\bin\Debug\netcoreapp2.1\RG.ConsoleApp.dll
+D:\dpr\src\RG.ConsoleApp\bin\Debug\netcoreapp2.1\RG.Accounts.dll
+D:\dpr\src\RG.ConsoleApp\bin\Debug\netcoreapp2.1\RG.Persistency.dll
+D:\dpr\src\RG.ConsoleApp\bin\Debug\netcoreapp2.1\RG.Persistency.pdb
+D:\dpr\src\RG.ConsoleApp\bin\Debug\netcoreapp2.1\RG.Accounts.pdb
+D:\dpr\src\RG.ConsoleApp\obj\Debug\netcoreapp2.1\RG.ConsoleApp.csprojAssemblyReference.cache
+D:\dpr\src\RG.ConsoleApp\obj\Debug\netcoreapp2.1\RG.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\dpr\src\RG.ConsoleApp\obj\Debug\netcoreapp2.1\RG.ConsoleApp.AssemblyInfoInputs.cache
+D:\dpr\src\RG.ConsoleApp\obj\Debug\netcoreapp2.1\RG.ConsoleApp.AssemblyInfo.cs
+D:\dpr\src\RG.ConsoleApp\obj\Debug\netcoreapp2.1\RG.ConsoleApp.csproj.CopyComplete
+D:\dpr\src\RG.ConsoleApp\bin\Debug\netcoreapp2.1\RG.ConsoleApp.pdb
+D:\dpr\src\RG.ConsoleApp\obj\Debug\netcoreapp2.1\RG.ConsoleApp.dll
+D:\dpr\src\RG.ConsoleApp\obj\Debug\netcoreapp2.1\RG.ConsoleApp.pdb
