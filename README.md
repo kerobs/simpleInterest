@@ -1,4 +1,4 @@
-# simpleInterest
+# Simple Interest calculations for a Building Society
 
 Assumptions
 1. Interest rate is per year basis
